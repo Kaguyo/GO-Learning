@@ -1,0 +1,10 @@
+#app {
+    height: 100vh;
+}
+
+#logo {
+    display: block;
+    width: 10%;
+    height: 10%;
+    position: relative;
+}

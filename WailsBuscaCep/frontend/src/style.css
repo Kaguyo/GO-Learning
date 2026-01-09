@@ -1,0 +1,22 @@
+html {
+    background-color: rgb(24, 47, 63);
+    text-align: center;
+    color: white;
+    overflow-y: scroll;
+    height: 100%;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+body {
+    margin: 0;
+    color: white;
+    font-family: arial;
+    height: 100%;
+    user-select: none;
+    width: 100%;
+}
+
+img {
+    pointer-events: none;
+}
